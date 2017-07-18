@@ -4,21 +4,14 @@
 
 <table>
 
-<tbody>
+    <tbody>
+        <tr>
+            <a href="https://css-tricks.com/" target="_blank">CSS tricks</a>
+        </tr>
 
-<tr>
-
-<a href="https://css-tricks.com/" target="_blank">CSS tricks</a>
-
-</tr>
-
-
-<tr>
-
-<a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
-
-</tr>
-
-</tbody>
+        <tr>
+            <a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
+        </tr>
+    </tbody>
 
 </table>
