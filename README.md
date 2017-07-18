@@ -1,6 +1,6 @@
 <h1>Resources for .NET development</h1>
 
-<h2>Keep updated</h2>
+<h2>Stay informed</h2>
 
 <table>
 
