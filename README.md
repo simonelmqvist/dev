@@ -1,7 +1,5 @@
 <h1>Resources for .NET development</h1>
 
-<hr />
-
 <h2>Keep updated</h2>
 
 <table>
@@ -9,6 +7,9 @@
         <tr>
             <td>
                 <a href="https://css-tricks.com/" target="_blank">CSS trics</a>
+            </td>
+            <td>
+                <a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
             </td>
         </tr>
     </tbody>
