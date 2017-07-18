@@ -12,6 +12,13 @@
 
 </tr>
 
+
+<tr>
+
+<a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
+
+</tr>
+
 </tbody>
 
 </table>
