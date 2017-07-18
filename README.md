@@ -19,9 +19,3 @@
         </tbody>
     </table>
 </div>
-
-<style>
-    .se-res td {
-        display: inline;
-    }
-</style>
