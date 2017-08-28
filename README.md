@@ -50,5 +50,5 @@
 </p>
 
 <p>
-    <a href="https://nicbell.github.io/ucreate/icons.html">Icon library</a>
+    <a href="https://icomoon.io/">Other icons</a>
 </p>
