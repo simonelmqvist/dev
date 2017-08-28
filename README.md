@@ -27,28 +27,28 @@
 </p>
 
 <p>
-    <a href="https://nicbell.github.io/ucreate/icons.html">Icon library</a>
+    <a href="https://nicbell.github.io/ucreate/icons.html" target="_blank">Icon library</a>
 </p>
 
 <p>
-    <a href="https://our.umbraco.org/apidocs/ui/#/api">Directives</a>
+    <a href="https://our.umbraco.org/apidocs/ui/#/api" target="_blank">Directives</a>
 </p>
 
 <p>
-    <a href="https://www.pluralsight.com/search?q=angularjs">Angular courses (ask me for credentials)</a>
+    <a href="https://www.pluralsight.com/search?q=angularjs" target="_blank">Angular courses (ask me for credentials)</a>
 </p>
 
 <p>
-    <a href="https://blog.angularjs.org/">Angular news</a>
+    <a href="https://blog.angularjs.org/" target="_blank">Angular news</a>
 </p>
 
 
 <h2>Design</h2>
 
 <p>
-    <a href="https://mockflow.com/">Wireframes</a>
+    <a href="https://mockflow.com/" target="_blank">Wireframes</a>
 </p>
 
 <p>
-    <a href="https://icomoon.io/">Other icons</a>
+    <a href="https://icomoon.io/" target="_blank">Other icons</a>
 </p>
