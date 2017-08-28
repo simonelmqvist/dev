@@ -3,7 +3,7 @@
 <h2>Frontend RSS</h2>
 
 <p>
-    <a href="https://css-picks.com/" target="_blank">CSS tricks</a>
+    <a href="https://css-tricks.com/" target="_blank">CSS tricks</a>
 </p>
 
 
