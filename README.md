@@ -2,128 +2,86 @@
 
 <h2>Stay informed</h2>
 
-<table>
-
-<tbody>
-
-<tr>
-
-<a href="https://css-tricks.com/" target="_blank">CSS tricks</a>
-
-</tr>
+<p>
+    <a href="https://css-picks.com/" target="_blank">CSS tricks</a>
+</p>
 
 
-<tr>
-
-<a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
-
-</tr>
-
-</tbody>
-
-</table>
+<p>
+    <a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
+</p>
 
 
 <h2>Umbraco</h2>
 
-<table>
-
-<tbody>
-
-<tr>
+<p>
     <a href="https://our.umbraco.org/">Umbraco community</a>
-</tr>
-
-</tbody>
-
-</table>
+</p>
 
 <h3>Extensions</h2>
 
-<table>
-
-<tbody>
-
-<tr>
+<p>
     <a href="http://umbraco.github.io/Belle/#/api/umbraco.services.dialogService">Dialog service</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://nicbell.github.io/ucreate/icons.html">Icon library</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://our.umbraco.org/apidocs/ui/#/api">Directives</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://www.pluralsight.com/search?q=angularjs">Angular courses (ask me for credentials)</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://blog.angularjs.org/">Angular news</a>
-</tr>
+</p>
 
-</tbody>
-
-</table>
 
 <h2>Design</h2>
 
-<table>
-
-<tbody>
-
-<tr>
+<p>
     <a href="https://mockflow.com/">Wireframes</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://nicbell.github.io/ucreate/icons.html">Icon library</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://our.umbraco.org/apidocs/ui/#/api">Directives</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://www.pluralsight.com/search?q=angularjs">Angular courses (ask me for credentials)</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://blog.angularjs.org/">Angular news</a>
-</tr>
+</p>
 
-</tbody>
-
-</table>
 
 <h2>RSS</h2>
 
-<table>
-
-<tbody>
-
-<tr>
+<p>
     <a href="http://responsivedesignweekly.com/">Responsive design</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="http://javascriptweekly.com/">Javascript</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://frontendfoc.us/">Frontend focus</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://www.pluralsight.com/search?q=angularjs">Angular courses (ask me for credentials)</a>
-</tr>
+</p>
 
-<tr>
+<p>
     <a href="https://blog.angularjs.org/">Angular news</a>
-</tr>
-
-</tbody>
-
-</table>
+</p>
