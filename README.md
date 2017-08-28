@@ -23,7 +23,7 @@
 </p>
 
 <p>
-    <a href="https://www.pluralsight.com/search?q=angularjs" target="_blank">Angular courses (ask me for credentials)</a>
+    <a href="https://www.pluralsight.com/search?q=angularjs" target="_blank">Angular courses</a>
 </p>
 
 <p>
