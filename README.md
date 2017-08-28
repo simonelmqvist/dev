@@ -1,29 +1,17 @@
 <h1>Resources for .NET development</h1>
 
-<h2>Frontend RSS</h2>
-
-<p>
-    <a href="https://css-tricks.com/" target="_blank">CSS tricks</a>
-</p>
-
-
-<p>
-    <a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
-</p>
-
-<p>
-    <a href="https://frontendfoc.us/">Frontend focus</a>
-</p>
-
-
 <h2>Umbraco</h2>
 
 <p>
-    <a href="https://our.umbraco.org/">Umbraco community</a>
+    <a href="https://our.umbraco.org/" target="_blank">Umbraco community</a>
 </p>
 
 <p>
-    <a href="http://umbraco.github.io/Belle/#/api/umbraco.services.dialogService">Dialog service</a>
+    <a href="https://github.com/Camelonta/Umbraco.Boilerplate" target="_blank">Camelonta Boilerplate</a>
+</p>
+
+<p>
+    <a href="http://umbraco.github.io/Belle/#/api/umbraco.services.dialogService" target="_blank">Dialog service</a>
 </p>
 
 <p>
@@ -40,6 +28,22 @@
 
 <p>
     <a href="https://blog.angularjs.org/" target="_blank">Angular news</a>
+</p>
+
+
+<h2>Frontend RSS</h2>
+
+<p>
+    <a href="https://css-tricks.com/" target="_blank">CSS tricks</a>
+</p>
+
+
+<p>
+    <a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
+</p>
+
+<p>
+    <a href="https://frontendfoc.us/">Frontend focus</a>
 </p>
 
 
