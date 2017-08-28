@@ -1,6 +1,6 @@
 <h1>Resources for .NET development</h1>
 
-<h2>Stay informed</h2>
+<h2>Frontend RSS</h2>
 
 <p>
     <a href="https://css-picks.com/" target="_blank">CSS tricks</a>
@@ -9,6 +9,10 @@
 
 <p>
     <a href="http://javascriptweekly.com/" target="_blank">Javascript weekly</a>
+</p>
+
+<p>
+    <a href="https://frontendfoc.us/">Frontend focus</a>
 </p>
 
 
@@ -53,29 +57,6 @@
 
 <p>
     <a href="https://our.umbraco.org/apidocs/ui/#/api">Directives</a>
-</p>
-
-<p>
-    <a href="https://www.pluralsight.com/search?q=angularjs">Angular courses (ask me for credentials)</a>
-</p>
-
-<p>
-    <a href="https://blog.angularjs.org/">Angular news</a>
-</p>
-
-
-<h2>RSS</h2>
-
-<p>
-    <a href="http://responsivedesignweekly.com/">Responsive design</a>
-</p>
-
-<p>
-    <a href="http://javascriptweekly.com/">Javascript</a>
-</p>
-
-<p>
-    <a href="https://frontendfoc.us/">Frontend focus</a>
 </p>
 
 <p>
