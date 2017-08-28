@@ -22,8 +22,6 @@
     <a href="https://our.umbraco.org/">Umbraco community</a>
 </p>
 
-<h3>Extensions</h2>
-
 <p>
     <a href="http://umbraco.github.io/Belle/#/api/umbraco.services.dialogService">Dialog service</a>
 </p>
@@ -53,16 +51,4 @@
 
 <p>
     <a href="https://nicbell.github.io/ucreate/icons.html">Icon library</a>
-</p>
-
-<p>
-    <a href="https://our.umbraco.org/apidocs/ui/#/api">Directives</a>
-</p>
-
-<p>
-    <a href="https://www.pluralsight.com/search?q=angularjs">Angular courses (ask me for credentials)</a>
-</p>
-
-<p>
-    <a href="https://blog.angularjs.org/">Angular news</a>
 </p>
